@@ -1,1 +1,1 @@
-# -JavaScript-Interview-Practice
+# JavaScript-Interview-Practice-Example
